@@ -1,0 +1,13 @@
+import java.util.Scanner;
+
+public class test404 {
+
+    private static final double PI = 3.1417;
+    private static int anzahl;
+
+    static {
+        anzahl = 5;
+    }
+
+
+}
